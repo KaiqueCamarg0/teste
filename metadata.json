@@ -1,0 +1,6 @@
+{
+  "name": "Contas a Pagar",
+  "description": "Um sistema simples e eficiente para gerenciar suas contas a pagar, com acompanhamento de status e vencimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
